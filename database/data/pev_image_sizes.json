@@ -1,0 +1,18 @@
+[
+    {"pev_image_zone_id":"1","folder":"default/","width":"800","height":"800","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"1","folder":"big/","width":"455","height":"455","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"1","folder":"middle/","width":"221","height":"221","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"1","folder":"mini/","width":"80","height":"80","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"2","folder":"default/","width":"800","height":"800","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"2","folder":"big/","width":"455","height":"455","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"2","folder":"middle/","width":"221","height":"221","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"2","folder":"mini/","width":"80","height":"80","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"3","folder":"default/","width":"800","height":"800","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"3","folder":"big/","width":"455","height":"455","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"3","folder":"middle/","width":"221","height":"221","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"3","folder":"mini/","width":"80","height":"80","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"4","folder":"default/","width":"800","height":"800","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"4","folder":"big/","width":"455","height":"455","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"4","folder":"middle/","width":"221","height":"221","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"},
+    {"pev_image_zone_id":"4","folder":"mini/","width":"80","height":"80","created_at":"2020-11-30 14:39:17","updated_at": "2020-11-30 14:39:17"}
+]

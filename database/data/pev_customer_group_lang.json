@@ -1,0 +1,22 @@
+[
+    {"pev_customer_group_id": 1, "pev_lang_id": 1, "name":"Visitante"},
+    {"pev_customer_group_id": 2, "pev_lang_id": 1, "name":"Invitado"},
+    {"pev_customer_group_id": 3, "pev_lang_id": 1, "name":"Cliente"},
+    {"pev_customer_group_id": 4, "pev_lang_id": 1, "name":"Cliente VIP"},
+    {"pev_customer_group_id": 1, "pev_lang_id": 4, "name":"Visitor"},
+    {"pev_customer_group_id": 2, "pev_lang_id": 4, "name":"Invited"},
+    {"pev_customer_group_id": 3, "pev_lang_id": 4, "name":"Client"},
+    {"pev_customer_group_id": 4, "pev_lang_id": 4, "name":"VIP Client"},
+    {"pev_customer_group_id": 1, "pev_lang_id": 5, "name":"Visiteur"},
+    {"pev_customer_group_id": 2, "pev_lang_id": 5, "name":"Invité"},
+    {"pev_customer_group_id": 3, "pev_lang_id": 5, "name":"Client"},
+    {"pev_customer_group_id": 4, "pev_lang_id": 5, "name":"Client VIP"},
+    {"pev_customer_group_id": 1, "pev_lang_id": 6, "name":"Besucher"},
+    {"pev_customer_group_id": 2, "pev_lang_id": 6, "name":"Eingeladen"},
+    {"pev_customer_group_id": 3, "pev_lang_id": 6, "name":"Klient"},
+    {"pev_customer_group_id": 4, "pev_lang_id": 6, "name":"VIP-Kunde"},
+    {"pev_customer_group_id": 1, "pev_lang_id": 7, "name":"Visitatore"},
+    {"pev_customer_group_id": 2, "pev_lang_id": 7, "name":"Invitato"},
+    {"pev_customer_group_id": 3, "pev_lang_id": 7, "name":"Cliente"},
+    {"pev_customer_group_id": 4, "pev_lang_id": 7, "name":"Cliente VIP"}
+]
